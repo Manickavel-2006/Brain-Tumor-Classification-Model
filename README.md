@@ -45,3 +45,30 @@ The notebook demonstrates how a trained deep learning model can not only classif
 ├── README.md
 └── dataset/
 └── MRI images (if applicable)
+
+yaml
+Copy code
+
+---
+
+📊 Use Cases
+Medical image analysis
+
+AI-assisted diagnosis
+
+Explainable AI (XAI) in healthcare
+
+Academic and research projects
+
+⚠️ Disclaimer
+This project is intended for educational and research purposes only.
+It is not a substitute for professional medical diagnosis.
+
+🙌 Acknowledgements
+Open-source deep learning community
+
+Medical imaging datasets used for learning and experimentation
+
+📌 Author
+Manickavel Palani
+B.Tech – Artificial Intelligence & Data Science
